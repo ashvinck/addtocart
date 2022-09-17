@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "title": "Fancy Product",
+    "basePrice": "$40.00 - $80.00",
+    "NewPrice": "",
+    "buttonText": "View Options",
+    "onSale": "no"
+  },
+  {
+    "id": "2",
+    "title": "Special Item",
+    "rating": 5,
+    "basePrice": "$20.00",
+    "NewPrice": "$18.00",
+    "buttonText": "Add to cart",
+    "onSale": "yes"
+  },
+  {
+    "id": "3",
+    "title": "Sale item",
+    "basePrice": "$50.00",
+    "NewPrice": "$25.00",
+    "buttonText": "Add to cart",
+    "onSale": "yes"
+  },
+  {
+    "id": "4",
+    "title": "Popular item",
+    "rating": 5,
+    "basePrice": "$40.00",
+    "NewPrice": "",
+    "buttonText": "Add to cart",
+    "onSale": "no"
+  },
+  {
+    "id": "5",
+    "title": "Sale Item",
+    "basePrice": "$50.00",
+    "NewPrice": "$25.00",
+    "buttonText": "Add to cart",
+    "onSale": "yes"
+  },
+  {
+    "id": "6",
+    "title": "Fancy Product",
+    "basePrice": "$120.00 - $280.00",
+    "NewPrice": "",
+    "buttonText": "View Options",
+    "onSale": "no"
+  },
+  {
+    "id": "7",
+    "title": "Special Item",
+    "rating": 5,
+    "basePrice": "$20.00",
+    "NewPrice": "$18.00",
+    "buttonText": "Add to cart",
+    "onSale": "yes"
+  },
+  {
+    "id": "8",
+    "title": "Popular Item",
+    "rating": 5,
+    "basePrice": "$40.00",
+    "NewPrice": "",
+    "buttonText": "Add to cart",
+    "onSale": "no"
+  }
+]
